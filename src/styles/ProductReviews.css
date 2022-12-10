@@ -1,0 +1,7 @@
+.ProductReviews{
+    display: flex;
+    width: 90vw;
+    margin: auto;
+    justify-content: center;
+    background-color: rgb(250, 246, 246);
+}
