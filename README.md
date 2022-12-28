@@ -24,13 +24,13 @@ Live :https://thunderous-dusk-1ff50f.netlify.app/
 <p>The page contains dynamic navbar functionality which is then exported to each section of the website, the navbar contains the account section in which we need to signup or login to the website for purchasing any product. It contains different products whicch will be purchased on single click.</p>
 <hr/>
 <h1> 2.  Account Section: </h1>
-<img width="1402"  src="https://user-images.githubusercontent.com/110046267/204727529-f54acfa6-b61b-4fb5-88ef-374f13bca650.png">
 
-<p>Whenever an item is purchased we first need to create an account in the website and in this section we also need to provide some details to create the account and after creating we need to login for futher process</p>
 
 <hr/>
-<h1> 3.  Product section: </h1>
-<img width="1381" alt="Screenshot 2022-11-30 at 12 22 16 PM" src="https://user-images.githubusercontent.com/110046267/204727810-d97364ce-9a30-475b-8392-ad2cc395290d.png">
+<h1> 2.  Product section: </h1>
+<img width="1381" alt="Screenshot 2022-11-30 at 12 22 16 PM" src="(https://user-images.githubusercontent.com/110034660/209763663-fcaa0933-0531-49fd-9613-9bf394147126.PNG">
+<img width="1381" alt="Screenshot 2022-11-30 at 12 22 16 PM" src="(https://user-images.githubusercontent.com/110034660/209763663-fcaa0933-0531-49fd-9613-9bf394147126.PNG">
+
 
 <p>The page contains all types of product which you want see acccoring to your selection criteria</p>
 
