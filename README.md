@@ -18,7 +18,8 @@ Live :https://thunderous-dusk-1ff50f.netlify.app/
 <h2>lets have a look on the website pages:</h2>
 <hr/>
 <h1> 1. Landing page: </h1>
-<img width="1436" alt="Screenshot 2022-11-30 at 12 18 15 PM" src="https://user-images.githubusercontent.com/110046267/204727055-d1c44070-1b7c-4a77-9af5-ba4a719a1a5d.png">
+<img width="1436" alt="Screenshot 2022-11-30 at 12 18 15 PM" src="![mi1](https://user-images.githubusercontent.com/110034660/209763342-def5c71d-550b-4ace-818a-a35eb1dcfc0d.PNG)
+">
 
 
 <p>The page contains dynamic navbar functionality which is then exported to each section of the website, the navbar contains the account section in which we need to signup or login to the website for purchasing any product. It contains different products whicch will be purchased on single click.</p>
