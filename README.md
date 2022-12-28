@@ -29,10 +29,11 @@ Live :https://thunderous-dusk-1ff50f.netlify.app/
 <hr/>
 <h1> 2.  Product section: </h1>
 <img width="1381" alt="Screenshot 2022-11-30 at 12 22 16 PM" src="https://user-images.githubusercontent.com/110034660/209763663-fcaa0933-0531-49fd-9613-9bf394147126.PNG">
-<img width="1381" alt="Screenshot 2022-11-30 at 12 22 16 PM" src="https://user-images.githubusercontent.com/110034660/209763663-fcaa0933-0531-49fd-9613-9bf394147126.PNG">
+
 
 
 <p>The page contains all types of product which you want see acccoring to your selection criteria</p>
+<img width="1381" alt="Screenshot 2022-11-30 at 12 22 16 PM" src="https://user-images.githubusercontent.com/110034660/209764423-e2cf5c64-9b23-43e8-a636-5a1ddd9b202b.PNG">
 
 
 
