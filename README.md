@@ -1,4 +1,36 @@
-# Getting Started with Create React App
+
+
+<h2>  PROJECT--mi</h2>
+<hr/>
+<p>e-Xiaomi India mi store helps you to discover Mi and Redmi mobiles, accessories, ecosystem products and many more. </p>
+Live :https://thunderous-dusk-1ff50f.netlify.app/
+<h2> Features </h2>
+<hr/>
+<li>Dynamic Navbar.</li>
+<li>Product page with interactive scrollbars.</li>
+<li>Dynamic cart page.</li>
+
+
+<h2>lets have a look on the website pages:</h2>
+<hr/>
+<h1> 1. Landing page: </h1>
+<img width="1436" alt="Screenshot 2022-11-30 at 12 18 15 PM" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibtimes.co.in%2Fredmi-note-5-pro-pre-order-postponed-when-where-book-xiaomi-phone-767833&psig=AOvVaw2kwf4wErMmnijlIJo4jWpG&ust=1672291030283000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCDpdnHm_wCFQAAAAAdAAAAABAK">
+
+<p>The page contains dynamic navbar functionality which is then exported to each section of the website, the navbar contains the account section in which we need to signup or login to the website for purchasing any product. It contains different products whicch will be purchased on single click.</p>
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
