@@ -14,7 +14,7 @@ Live :https://thunderous-dusk-1ff50f.netlify.app/
 <h2>lets have a look on the website pages:</h2>
 <hr/>
 <h1> 1. Landing page: </h1>
-<img width="1436" alt="Screenshot 2022-11-30 at 12 18 15 PM" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibtimes.co.in%2Fredmi-note-5-pro-pre-order-postponed-when-where-book-xiaomi-phone-767833&psig=AOvVaw2kwf4wErMmnijlIJo4jWpG&ust=1672291030283000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCDpdnHm_wCFQAAAAAdAAAAABAK">
+<img width="1436" alt="Screenshot 2022-11-30 at 12 18 15 PM" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5YAZM6gMMM_gXUiOb5JWKEuKKYipkmRjGw&usqp=CAU">
 
 <p>The page contains dynamic navbar functionality which is then exported to each section of the website, the navbar contains the account section in which we need to signup or login to the website for purchasing any product. It contains different products whicch will be purchased on single click.</p>
 <hr/>
